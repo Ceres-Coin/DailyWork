@@ -21,5 +21,5 @@ finish test scripts
 4. Liztoken.test.ts
 
 ## 2021/06/24
-todo: add test scripts 
-todo: modify the deploy scripts for LIZToken-WETH to LizToken-usdc pair
+##### todo: add test scripts 
+##### todo: modify the deploy scripts for LIZToken-WETH to LizToken-usdc pair
