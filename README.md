@@ -19,3 +19,7 @@ finish test scripts
 2. LizMinerP2.test.ts
 3. LizMinerP3.test.ts
 4. Liztoken.test.ts
+
+## 2021/06/24
+todo: add test scripts 
+todo: modify the deploy scripts for LIZToken-WETH to LizToken-usdc pair
