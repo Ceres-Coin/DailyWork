@@ -21,5 +21,11 @@ finish test scripts
 4. Liztoken.test.ts
 
 ## 2021/06/24
-##### todo: add test scripts 
-##### todo: modify the deploy scripts for LIZToken-WETH to LizToken-usdc pair
+##### add test scripts 
+##### modify the deploy scripts for LIZToken-WETH to LizToken-usdc pair
+
+## 2021/06/26
+1. tuning SmartContract to pass the current test scripts
+2. modify the Migration Scripts for BSC TESTNET
+3. add the migration scripts for Ethereum Ropsten TESTNet
+4. Test & Passed the deployment scripts for both BSCTestnet & Ropsten Network
