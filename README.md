@@ -29,3 +29,12 @@ finish test scripts
 2. modify the Migration Scripts for BSC TESTNET
 3. add the migration scripts for Ethereum Ropsten TESTNet
 4. Test & Passed the deployment scripts for both BSCTestnet & Ropsten Network
+
+## 2021/06/27
+repository: https://github.com/Ceres-Coin/SmartContract
+#### 0.1.210627-b (2021-06-27)
+add new test script file: test_CERES_USDC_Pool_P2.js
+
+#### 0.1.210627 (2021-06-27)
+add test cases of CeresPool Contract
+add TODO tasks of CeresPool Contract
